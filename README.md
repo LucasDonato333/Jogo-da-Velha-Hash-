@@ -408,3 +408,4 @@ while len(possibilidades) > 0:
     jogar2()
     print("\nA quantidade de possibilidades possiveis é {}".format(len(possibilidades)))
 ```
+<center><img src="Doc/Images/Python.png"></center>

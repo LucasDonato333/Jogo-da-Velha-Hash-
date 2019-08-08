@@ -409,6 +409,5 @@ while len(possibilidades) > 0:
     print("\nA quantidade de possibilidades possiveis é {}".format(len(possibilidades)))
 ```
 
-<img src="Doc/Images/Python.png" src="google.com.br">
 
-<a href=”https://github.com/LucasDonato333/Jogo-da-Velha-Hash-/blob/master/Doc/Python/hash.py”><img src=”Doc/Images/Python.png” alt=”Código Python”></a>
+<a href=”Doc/Python/hash.py”><img src=”Doc/Images/Python.png” alt=”Python - Jogo da Velha”/></a>

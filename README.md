@@ -144,6 +144,7 @@ def verifica_possibilidades(n):
 
 <hr>
 <details><summary>Verifica o ganhador</summary>
+
 Primeiramente é criado uma lista com várias listas, onde cada uma tem três elementos.
 Cada lista dentro de **ganhar** é uma posição de vitória no Jogo da Velha.
 
@@ -171,49 +172,49 @@ ganhar = [
 		<th>Layout</th>
 	</tr>
 	<tr>
-		<td>tabuleiro[0][0]<br> tabuleiro[0][1]<br> tabuleiro[0][2]</td>
+		<td>tabuleiro[0][0]<br>tabuleiro[0][1]<br>tabuleiro[0][2]</td>
 		<td>
 			<img src="Doc/Images/X[0][:].png">
 		</td>
 	</tr>
 	<tr>
-		<td>tabuleiro[1][0] tabuleiro[1][1] tabuleiro[1][2]</td>
+		<td>tabuleiro[1][0]<br>tabuleiro[1][1]<br>tabuleiro[1][2]</td>
 		<td>
 			<img src="Doc/Images/X[1][:].png">
 		</td>
 	</tr>
 	<tr>
-		<td>tabuleiro[2][0] tabuleiro[2][1] tabuleiro[2][2]</td>
+		<td>tabuleiro[2][0]<br>tabuleiro[2][1]<br>tabuleiro[2][2]</td>
 		<td>
 			<img src="Doc/Images/X[2][:].png">
 		</td>
 	</tr>
 	<tr>
-		<td>tabuleiro[0][0] tabuleiro[1][1] tabuleiro[2][2]</td>
+		<td>tabuleiro[0][0]<br>tabuleiro[1][1]<br>tabuleiro[2][2]</td>
 		<td>
 			<img src="Doc/Images/X1.png">
 		</td>
 	</tr>
 	<tr>
-		<td>tabuleiro[0][2] tabuleiro[1][1] tabuleiro[2][0]</td>
+		<td>tabuleiro[0][2]<br>tabuleiro[1][1]<br>tabuleiro[2][0]</td>
 		<td>
 			<img src="Doc/Images/x2.png">
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][0] tabuleiro[1][0] tabuleiro[2][0]</td>
+		<td>[tabuleiro[0][0]<br>tabuleiro[1][0]<br>tabuleiro[2][0]</td>
 		<td>
 			<img src="Doc/Images/X[:][0].png">
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][1] tabuleiro[1][1] tabuleiro[2][1]</td>
+		<td>[tabuleiro[0][1]<br>tabuleiro[1][1]<br>tabuleiro[2][1]</td>
 		<td>
 			<img src="Doc/Images/X[:][1].png">
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][2] tabuleiro[1][2] tabuleiro[2][2]</td>
+		<td>[tabuleiro[0][2]<br>tabuleiro[1][2]<br>tabuleiro[2][2]</td>
 		<td>
 			<img src="Doc/Images/X[:][2].png">
 		</td>

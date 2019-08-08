@@ -279,6 +279,7 @@ def verifica_ganhador():
 
 <hr>
 <details><summary>Primeiro Jogador (Usuário)</summary>
+
 A função **jogar** tem o objetivo de pegar o valor digitado pelo usuario e colocar esse valor na variavel **n**.
 
 Em seguida ele faz a verificação das possibilidades do jogo, visualizando se **verifica_possibilidades(n)** é verdadeiro(True). Caso seja **True** quer dizer que o valor digitado pelo usuário está presente na lista **possibilidades** eliminando o fato desse valor nunca ter sido digitado no código. Em seguida esse valor será eliminado da lista **possibilidades** e será incorporado a matriz, na posição digitada, o codigo insere um simbolo, **X** para o usuário, e **O** para a máquina.
@@ -391,6 +392,7 @@ def fim_de_jogo():
 ```
 <hr>
 <details><summary>Rodar o código</summary>
+    
 Esse trecho do código imprime na tela a frase ***"Para jogar digite uma das possibilidades apresentadas"***.
 Em seguida um looping é criado.
 
@@ -419,6 +421,3 @@ while len(possibilidades) > 0:
     jogar2()
     print("\nA quantidade de possibilidades possiveis é {}".format(len(possibilidades)))
 ```
-
-
-

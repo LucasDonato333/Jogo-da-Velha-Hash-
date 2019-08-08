@@ -408,6 +408,7 @@ while len(possibilidades) > 0:
     jogar2()
     print("\nA quantidade de possibilidades possiveis é {}".format(len(possibilidades)))
 ```
-<center>
-<img src="Doc/Images/Python.png">
-</center>
+
+<img src="Doc/Images/Python.png" src="google.com.br">
+
+<a href=”https://github.com/LucasDonato333/Jogo-da-Velha-Hash-/blob/master/Doc/Python/hash.py”><img src=”Doc/Images/Python.png” alt=”Código Python”></a>

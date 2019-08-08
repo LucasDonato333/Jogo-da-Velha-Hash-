@@ -410,4 +410,4 @@ while len(possibilidades) > 0:
 ```
 
 
-<a href=”Doc/Python/hash.py”><img src=”Doc/Images/Python.png” alt=”Python - Jogo da Velha”/></a>
+[![](Doc/Images/Python.png)](Doc/Python/hash.py”)

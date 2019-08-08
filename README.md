@@ -163,73 +163,59 @@ ganhar = [
 [tabuleiro[0][2],tabuleiro[1][2],tabuleiro[2][2]],
 ]
 ```
+
+
 <table>
 	<tr>
 		<th>Código</th>
 		<th>Layout</th>
 	</tr>
 	<tr>
-		<td>tabuleiro[0][0] tabuleiro[0][1] tabuleiro[0][2]</td>
+		<td>tabuleiro[0][0]<br> tabuleiro[0][1]<br> tabuleiro[0][2]</td>
 		<td>
-		|X|X|X|
-		|_|_|_|
-		|_|_|_|
+			<img src="Doc/Images/X[0][:].png">
 		</td>
 	</tr>
 	<tr>
 		<td>tabuleiro[1][0] tabuleiro[1][1] tabuleiro[1][2]</td>
 		<td>
-		|_|_|_|
-		|X|X|X|
-		|_|_|_|
+			<img src="Doc/Images/X[1][:].png">
 		</td>
 	</tr>
 	<tr>
 		<td>tabuleiro[2][0] tabuleiro[2][1] tabuleiro[2][2]</td>
 		<td>
-		|_|_|_|
-		|_|_|_|
-		|X|X|X|
+			<img src="Doc/Images/X[2][:].png">
 		</td>
 	</tr>
 	<tr>
 		<td>tabuleiro[0][0] tabuleiro[1][1] tabuleiro[2][2]</td>
 		<td>
-		|X|_|_|
-		|_|X|_|
-		|_|_|X|
+			<img src="Doc/Images/X1.png">
 		</td>
 	</tr>
 	<tr>
 		<td>tabuleiro[0][2] tabuleiro[1][1] tabuleiro[2][0]</td>
 		<td>
-		|_|_|X|
-		|_|X|_|
-		|X|_|_|
+			<img src="Doc/Images/x2.png">
 		</td>
 	</tr>
 	<tr>
 		<td>[tabuleiro[0][0] tabuleiro[1][0] tabuleiro[2][0]</td>
 		<td>
-		|X|_|_|
-		|X|_|_|
-		|X|_|_|
+			<img src="Doc/Images/X[:][0].png">
 		</td>
 	</tr>
 	<tr>
 		<td>[tabuleiro[0][1] tabuleiro[1][1] tabuleiro[2][1]</td>
 		<td>
-		|_|X|_|
-		|_|X|_|
-		|_|X|_|
+			<img src="Doc/Images/X[:][1].png">
 		</td>
 	</tr>
 	<tr>
 		<td>[tabuleiro[0][2] tabuleiro[1][2] tabuleiro[2][2]</td>
 		<td>
-		|_|_|X|
-		|_|_|X|
-		|_|_|X|
+			<img src="Doc/Images/X[:][2].png">
 		</td>
 	</tr>
 </table>

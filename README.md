@@ -410,4 +410,4 @@ while len(possibilidades) > 0:
 ```
 
 
-[![](Doc/Images/Python.png)](Doc/Python/hash.py”)
+[![](Doc/Images/Python.png)](Doc/Python/hash.py)

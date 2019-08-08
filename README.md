@@ -202,19 +202,19 @@ ganhar = [
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][0]<br>tabuleiro[1][0]<br>tabuleiro[2][0]</td>
+		<td>tabuleiro[0][0]<br>tabuleiro[1][0]<br>tabuleiro[2][0]</td>
 		<td>
 			<img src="Doc/Images/X[:][0].png">
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][1]<br>tabuleiro[1][1]<br>tabuleiro[2][1]</td>
+		<td>tabuleiro[0][1]<br>tabuleiro[1][1]<br>tabuleiro[2][1]</td>
 		<td>
 			<img src="Doc/Images/X[:][1].png">
 		</td>
 	</tr>
 	<tr>
-		<td>[tabuleiro[0][2]<br>tabuleiro[1][2]<br>tabuleiro[2][2]</td>
+		<td>tabuleiro[0][2]<br>tabuleiro[1][2]<br>tabuleiro[2][2]</td>
 		<td>
 			<img src="Doc/Images/X[:][2].png">
 		</td>

@@ -42,19 +42,19 @@ possibilidades = ["0,0","0,1","0,2","1,0","1,1","1,2","2,0","2,1","2,2"]
 	<th>2</th>
   </tr>
   <tr>
-    <td>**0**</td>
+    <td><b>0</b></td>
     <td></td>
 	<td></td>
     <td></td>
   </tr>
   <tr>
-    <td>**1**</td>
+    <td><b>1</b></td>
     <td></td>
 	<td></td>
     <td></td>
   </tr>
     <tr>
-    <td> **2** </td>
+    <td><b>2</b></td>
     <td></td>
 	<td></td>
     <td></td>
@@ -72,19 +72,19 @@ possibilidades = ["0,0","0,1","0,2","1,0","1,1","1,2","2,0","2,1","2,2"]
 	<th>2</th>
   </tr>
   <tr>
-    <td>**0**</td>
+    <td><b>0</b></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>**1**</td>
+    <td><b>1</b></td>
     <td> </td>
-    <td>**Y**</td>
+    <td><b>Y</b></td>
     <td></td>
   </tr>
     <tr>
-    <td> **2** </td>
+    <td><b>2</b></td>
     <td></td>
     <td></td>
     <td></td>
